@@ -11,9 +11,11 @@ E é aqui que eu vou acumulando meus repositórios. <br>
 Fique à vontade para explorar e interagir. <br>
 <br>
 
-- 🔭 Atualmente trabalhando em [LORO](https://github.com/hideraldus13/loro)
+- 🔭 Trabalhando em [LORO](https://github.com/hideraldus13/loro)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
-- 💬 Me chame para conversar em [LinkedIn](https://www.linkedin.com/in/hideraldoluis/)
+- 🌱 Evoluindo em **streaming de dados utilizando GCP**
+- 💬 Me chame para conversar sobre _#engenhariadedados_, _#analytics_, _#datascience_ e _#gestaodepessoas_
+- 📫 Me encontre em [LinkedIn](https://www.linkedin.com/in/hideraldoluis/)
 <br>
 
 ###
