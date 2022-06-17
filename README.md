@@ -14,7 +14,7 @@ Fique à vontade para explorar e interagir. <br>
 - 🔭 Trabalhando em [LORO](https://github.com/hideraldus13/loro)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **streaming de dados utilizando GCP**
-- 💬 Me chame para conversar sobre _#engenhariadedados_, _#analytics_, _#datascience_ e _#gestaodepessoas_
+- 💬 Me chame para conversar sobre _#engenhariadedados_, _#dataanalytics_, _#datascience_ e _#gestaodepessoas_
 - 📫 Me encontre em [LinkedIn](https://www.linkedin.com/in/hideraldoluis/)
 <br>
 
