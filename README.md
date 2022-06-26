@@ -9,6 +9,13 @@ Já fui Gerente de Projetos de TI, Gerente de Inovação e há 4 anos me dedico 
 
 E é aqui que eu vou acumulando meus repositórios. <br>
 Fique à vontade para explorar e interagir. <br>
+
+<sub>Diga "Oi" <br> 
+    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/hideraldus13)
+    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hideraldoluis/) 
+    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/) 
+</sub>
+
 <br>
 
 - 🔭 Trabalhando em [LORO](https://github.com/hideraldus13/loro)
@@ -31,14 +38,9 @@ Fique à vontade para explorar e interagir. <br>
 
 <br>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=hideraldus13&hide=contribs" height="150" alt="stats graph"  />
 </div>
-
-###
-
 
 <!--
 **hideraldus13/hideraldus13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
