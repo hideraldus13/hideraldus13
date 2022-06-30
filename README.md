@@ -23,7 +23,7 @@ Fique à vontade para explorar e interagir. <br>
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **streaming de dados**
 - 💬 Me chame para conversar sobre _#engenhariadedados_, _#dataanalytics_, _#datascience_ e _#gestaodepessoas_
-- 📫 Escrevo em [artigos no LinkedIn](https://www.linkedin.com/in/hideraldoluis/recent-activity/posts/)
+- 📫 Escrevo [artigos no LinkedIn](https://www.linkedin.com/in/hideraldoluis/recent-activity/posts/)
 - 📖 Livros que fizeram a diferença: 
   - [Storytelling com dados - Knaflic](https://amzn.to/3y2Srjw)
   - [Pipeline de liderança - Charan, Drotter, Noel](https://amzn.to/3QHoSeH)
