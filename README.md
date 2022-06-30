@@ -19,7 +19,7 @@ Fique à vontade para explorar e interagir. <br>
 <br>
 
 - 🔭 Trabalhando em [LORO](https://github.com/hideraldus13/loro)
-- 🎁 Último repo criado [Data Visualization Using Pandas](https://github.com/hideraldus13/data-visualization-using-pandas)
+- 🎁 Último repositório criado [Data Visualization Using Pandas](https://github.com/hideraldus13/data-visualization-using-pandas)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **streaming de dados**
 - 💬 Me chame para conversar sobre _#engenhariadedados_, _#dataanalytics_, _#datascience_ e _#gestaodepessoas_
