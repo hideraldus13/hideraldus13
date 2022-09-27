@@ -1,9 +1,9 @@
 **Sou um Dev.** <br>
 Minha primeira formação foi em Delphi e meu primeiro trampo foi em Power Builder. <br>
 Me viro em Java, fiz duas ou três coisinhas em Node e mando muito bem em Python. <br>
-Já fui Gerente de Projetos de TI, Gerente de Inovação e há 4 anos me dedico a dados. <br>
+Já fui Gerente de Projetos de TI, Gerente de Inovação e Gerente de Dados. <br>
 
-:rocket: Hoje estou **Gerente de Dados na Contabilizei** gerindo as equipes de engenharia de dados, análise de dados e ciência de dados. 
+:rocket: Hoje estou **Head de Tecnologia na WAP | WAAW by Alok** gerando valor com tecnologia em todas as camadas da companhia. 
 
 **Mas é impossível deixar de ser um Dev.** <br>
 
@@ -22,7 +22,7 @@ Fique à vontade para explorar e interagir. <br>
 - 🎁 Último repositório criado [Data Visualization Using Pandas](https://github.com/hideraldus13/data-visualization-using-pandas)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **streaming de dados**
-- 💬 Me chame para conversar sobre _#engenhariadedados_, _#dataanalytics_, _#datascience_ e _#gestaodepessoas_
+- 💬 Me chame para conversar sobre _#tech_, _#datascience_ e _#gestaodepessoas_
 - 📫 Escrevo [artigos no LinkedIn](https://www.linkedin.com/in/hideraldoluis/recent-activity/posts/)
 - 📖 Livros que fizeram a diferença: 
   - [Storytelling com dados - Knaflic](https://amzn.to/3y2Srjw)
