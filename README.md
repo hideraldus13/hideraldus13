@@ -18,10 +18,10 @@ Fique à vontade para explorar e interagir. <br>
 
 <br>
 
-- 🔭 Trabalhando em [LORO](https://github.com/hideraldus13/loro)
+- 🔭 Trabalhando em [ShareOfSearch](https://github.com/hideraldus13/shareofsearch)
 - 🎁 Último repositório criado [Data Visualization Using Pandas](https://github.com/hideraldus13/data-visualization-using-pandas)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
-- 🌱 Evoluindo em **streaming de dados**
+- 🌱 Evoluindo em **estruturação de pipeline de dados**
 - 💬 Me chame para conversar sobre _#tech_, _#datascience_ e _#gestaodepessoas_
 - 📫 Escrevo [artigos no LinkedIn](https://www.linkedin.com/in/hideraldoluis/recent-activity/posts/)
 - 📖 Livros que fizeram a diferença: 
@@ -29,13 +29,9 @@ Fique à vontade para explorar e interagir. <br>
   - [Pipeline de liderança - Charan, Drotter, Noel](https://amzn.to/3QHoSeH)
   - [A lógica do cisne negro - Taleb](https://amzn.to/3QtA5iy)
   - [Essencialismo - McKeown](https://amzn.to/3xHxWrg)
-  - [Comunicação não violenta - Rosenberg](https://amzn.to/3bcPcgp)
   - [Blitzscaling - Hoffman, Yeh](https://amzn.to/3xZS2y4)
-  - [Como mentir com estatística - Huff](https://amzn.to/39yEnEN)
-  - [Os primeiros 90 dias - Watkins](https://amzn.to/3tKiRUm)
   - [A startup enxuta - Ries](https://amzn.to/3N5VStM)
   - [Gestão de alta performance - Grove](https://amzn.to/3b6qnm8)
-  - [Governança de dados - Barbieri](https://amzn.to/3xvQ3QG)
 
 <br>
 
