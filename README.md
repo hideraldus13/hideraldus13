@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-
 **Sou um Dev.** <br>
 Minha primeira formação foi em Delphi e meu primeiro trampo foi em Power Builder. <br>
 Me viro em Java, fiz duas ou três coisinhas em Node e mando muito bem em Python. <br>
