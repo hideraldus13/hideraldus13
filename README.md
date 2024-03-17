@@ -18,10 +18,10 @@ Fique à vontade para explorar e interagir. <br>
 
 <br>
 
-- 🔭 Trabalhando em [ShareOfSearch](https://github.com/hideraldus13/shareofsearch)
-- 🎁 Último repositório criado [Data Visualization Using Pandas](https://github.com/hideraldus13/data-visualization-using-pandas)
+- 🔭 Trabalhando em **Pós Graduação em Inteligência Artificial Aplicada**, pela UFPR (~~repositório privado~~)
+- 🎁 Último repositório criado [ShareOfSearch](https://github.com/hideraldus13/shareofsearch)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
-- 🌱 Evoluindo em **estruturação de pipeline de dados**
+- 🌱 Evoluindo em **IA**
 - 💬 Me chame para conversar sobre _#tech_, _#datascience_ e _#gestaodepessoas_
 - 📫 Escrevo [artigos no LinkedIn](https://www.linkedin.com/in/hideraldoluis/recent-activity/posts/)
 - 📖 Livros que fizeram a diferença: 
