@@ -18,7 +18,7 @@ Fique à vontade para explorar e interagir. <br>
 
 <br>
 
-- 🔭 Trabalhando em **Pós Graduação em Inteligência Artificial Aplicada**, pela UFPR (~~repositório privado~~)
+- 🔭 Trabalhando em [Pós Graduação em Inteligência Artificial Aplicada, pela UFPR](https://github.com/hideraldus13/iaa-ufpr) << *repositório privado*
 - 🎁 Último repositório criado [ShareOfSearch](https://github.com/hideraldus13/shareofsearch)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **IA**
